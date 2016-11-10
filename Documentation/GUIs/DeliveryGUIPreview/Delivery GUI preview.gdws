@@ -1,0 +1,29 @@
+<Workspace
+	CID = "1"
+	NextCID = "2"
+	IconCategory = "Miscellaneous">
+	<OpenFiles
+		CID = "1"
+		LastActive = "4">
+		<File
+			FileID = "D506D91B-C379-4E35-9C37EDD50BF14160"
+			RootPath = "$Container"
+			RelativePathname = "About Us.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "330C8381-7E4F-4F69-871067CA3FBC45C7"
+			RootPath = "$Container"
+			RelativePathname = "Home.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "8337FD94-A7F7-4FE4-AC06F206795F7E09"
+			RootPath = "$Container"
+			RelativePathname = "Privacy Policy.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "3903CACA-6AD8-4576-BCF118EF5F65CDBB"
+			RootPath = "$Container"
+			RelativePathname = "Downloads.gui"
+			ViewSettings = ""/>
+	</OpenFiles>
+</Workspace>
